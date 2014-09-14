@@ -1,0 +1,1 @@
+$('html').addClass("ie8-custom");
